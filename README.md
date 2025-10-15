@@ -6,7 +6,8 @@ This app helps you stay organized by letting you add, mark as done, undo, and de
 ---
 
 ## 🌟 Preview
-
+# Live Demo
+https://to-do-app-inky-xi.vercel.app/
 Here’s a preview of the app: <img width="1210" height="814" alt="image" src="https://github.com/user-attachments/assets/0afa1aea-e38e-4356-b045-51091d121dc6" />
 
 ---
